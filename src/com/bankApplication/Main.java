@@ -26,6 +26,9 @@ public class Main {
                     bankManager.manageBanks();
                     break;
                 case 2 :
+                    System.out.println("---");
+                    System.out.println(bankManager.bankService.getBankList());
+                    System.out.println("---");
                     uiService.clientSideMainMenu();
                     clientSideManager.manageClients();
                     break;

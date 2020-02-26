@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a21f80ee-ea5a-458d-b546-18ad5ca49ff8" name="Default Changelist" comment="" />
+    <list default="true" id="a21f80ee-ea5a-458d-b546-18ad5ca49ff8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/bankApplication/BankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankApplication/BankService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bankApplication/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bankApplication/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YInBbkBwd7wYrqf7GLgKKgKDgJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,6 +27,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -52,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582638841333</updated>
       <workItem from="1582638844449" duration="8088000" />
+      <workItem from="1582654504121" duration="302000" />
     </task>
     <servers />
   </component>
@@ -59,10 +68,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2422" y="728" width="468" height="735" key="#com.intellij.ide.util.MemberChooser" timestamp="1582644626773">
+    <state x="2325" y="735" width="468" height="727" key="#com.intellij.ide.util.MemberChooser" timestamp="1582654943201">
       <screen x="67" y="34" width="3773" height="2126" />
     </state>
-    <state x="2422" y="728" width="468" height="735" key="#com.intellij.ide.util.MemberChooser/67.34.3773.2126@67.34.3773.2126" timestamp="1582644626773" />
+    <state x="2325" y="735" width="468" height="727" key="#com.intellij.ide.util.MemberChooser/67.34.3773.2126@67.34.3773.2126" timestamp="1582654943201" />
     <state width="1079" height="1950" key="GridCell.Tab.0.bottom" timestamp="1582645227278">
       <screen x="67" y="34" width="3773" height="2126" />
     </state>
@@ -79,6 +88,10 @@
       <screen x="67" y="34" width="3773" height="2126" />
     </state>
     <state width="1079" height="1950" key="GridCell.Tab.0.right/67.34.3773.2126@67.34.3773.2126" timestamp="1582645227278" />
+    <state x="1250" y="675" key="com.intellij.ide.util.TipDialog" timestamp="1582654508023">
+      <screen x="67" y="34" width="3773" height="2126" />
+    </state>
+    <state x="1250" y="675" key="com.intellij.ide.util.TipDialog/67.34.3773.2126@67.34.3773.2126" timestamp="1582654508023" />
     <state x="2240" y="526" width="840" height="1034" key="search.everywhere.popup" timestamp="1582642146637">
       <screen x="67" y="34" width="3773" height="2126" />
     </state>

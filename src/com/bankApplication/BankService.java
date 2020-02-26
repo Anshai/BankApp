@@ -159,4 +159,9 @@ public class BankService {
 
     }
 
+    // Get Banks List
+    public Bank getBankList() {
+        return bankList;
+    }
+
 }
